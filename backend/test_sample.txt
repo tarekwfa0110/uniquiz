@@ -1,0 +1,36 @@
+Here are some sample multiple choice questions from a medical exam:
+
+1. What is the capital of France?
+   A) London
+   B) Paris
+   C) Berlin
+   D) Madrid
+   Answer: B
+
+2. Which planet is closest to the Sun?
+   A) Venus
+   B) Earth
+   C) Mercury
+   D) Mars
+   Answer: C
+
+3. What is 2 + 2?
+   A) 3
+   B) 4
+   C) 5
+   D) 6
+   Answer: B
+
+4. Which of the following is a programming language?
+   A) HTML
+   B) CSS
+   C) JavaScript
+   D) All of the above
+   Answer: C
+
+5. What is the largest organ in the human body?
+   A) Heart
+   B) Brain
+   C) Liver
+   D) Skin
+   Answer: D 

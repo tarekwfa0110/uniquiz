@@ -1,0 +1,3529 @@
+{
+    "metadata": {
+        "totalQuestionsFound": 325,
+        "totalQuestionsProcessed": 325,
+        "processedAt": "2025-06-22T15:00:30.718Z"
+    },
+    "output": [
+        {
+            "questionNumber": 1,
+            "question": "In which phases of cardiac cycle 70% of blood pass from atrium to ventricle by gravity?",
+            "options": [
+                "Maximal and reduced filling phase",
+                "Isometric relaxation phase",
+                "Maximal and reduced ejection phase",
+                "Atrial systole"
+            ],
+            "answer": "Maximal and reduced filling phase"
+        },
+        {
+            "questionNumber": 2,
+            "question": "Which of the following are normal values for aortic and pulmonary arteries diastolic pressure?",
+            "options": [
+                "5/60",
+                "25/120",
+                "10/80",
+                "35/100"
+            ],
+            "answer": "10/80"
+        },
+        {
+            "questionNumber": 3,
+            "question": "If the heart rate of person is 80 beat/min, calculate duration of cardiac cycle?",
+            "options": [
+                "60/80 (60 sec/ 80 heart beats)",
+                "80/60",
+                "60x80",
+                "80-60"
+            ],
+            "answer": "80/60"
+        },
+        {
+            "questionNumber": 4,
+            "question": "Pressure in HIP (pulmonary) is?",
+            "options": [
+                "Zero mmhg",
+                "5 mmhg",
+                "7 mmhg",
+                "10mmhg"
+            ],
+            "answer": "Zero mmhg"
+        },
+        {
+            "questionNumber": 5,
+            "question": "Which is not true concerning purkinje muscle fibers?",
+            "options": [
+                "Are conductive",
+                "Are rich in glycogen",
+                "Have one or two nuclei",
+                "Have slow rate of conduction"
+            ],
+            "answer": "Have slow rate of conduction"
+        },
+        {
+            "questionNumber": 6,
+            "question": "Which is phase where all valves in heart closed?",
+            "options": [
+                "Isometric contraction phase",
+                "Maximal ejection phase",
+                "Atrial systole",
+                "Reduced filling phase"
+            ],
+            "answer": "Isometric contraction phase"
+        },
+        {
+            "questionNumber": 7,
+            "question": "Mr. Amir is 55 years old businessman, last year he had myocardial infarction, and he was hospitalized in ICU for two weeks. Which of the following likely occurred during his infarction attack?",
+            "options": [
+                "The infarcted muscle release chemical substance to inhibit left ventricle receptors and increase heart rate",
+                "The infarcted muscle release chemical substance to stimulate left ventricle receptors and increase blood pressure",
+                "The infarcted muscle release chemical substance to inhibit left ventricle receptors and decrease heart rate",
+                "The infarcted muscle release chemical substance to inhibit left ventricle receptors and increase blood pressure"
+            ],
+            "answer": "The infarcted muscle release chemical substance to inhibit left ventricle receptors and increase blood pressure"
+        },
+        {
+            "questionNumber": 8,
+            "question": "A baby having severe diarrhea may likely suffer, which of the following types of shock due to this diarrhea?",
+            "options": [
+                "Anaphylactic shock",
+                "Hypovolemic shock",
+                "Obstructive shock",
+                "Septic shock"
+            ],
+            "answer": "Hypovolemic shock"
+        },
+        {
+            "questionNumber": 9,
+            "question": "The AVN has the slowest rate of conduction",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 10,
+            "question": "Pulmonary veins contain non -oxygenated blood",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 11,
+            "question": "In the above diagram, at which of the following contraction reaches maximum?",
+            "options": [
+                "By end of phase 0",
+                "By end of phase 1",
+                "By end of phase 2",
+                "By end of phase 3"
+            ],
+            "answer": "By end of phase 3"
+        },
+        {
+            "questionNumber": 12,
+            "question": "Which of the following propel blood through peripheral circulation",
+            "options": [
+                "Left atrium",
+                "Left ventricle",
+                "Right atrium",
+                "Right ventricle"
+            ],
+            "answer": "Left ventricle"
+        },
+        {
+            "questionNumber": 13,
+            "question": "Which of the following represents greater form of circulation",
+            "options": [
+                "Systemic circulation",
+                "Hepatic portal circulation",
+                "Pulmonary circulation",
+                "Coronary circulation"
+            ],
+            "answer": "Systemic circulation"
+        },
+        {
+            "questionNumber": 14,
+            "question": "Pulmonary circulation course is from",
+            "options": [
+                "Left ventricle to right atrium",
+                "Right atrium to right ventricle",
+                "Right atrium to left ventricle",
+                "Right ventricle to left atrium"
+            ],
+            "answer": "Right atrium to right ventricle"
+        },
+        {
+            "questionNumber": 15,
+            "question": "Nerve supply of AVN is",
+            "options": [
+                "10th cranial nerve",
+                "9th cranial nerve",
+                "7th cranial nerve",
+                "11th cranial nerve"
+            ],
+            "answer": "9th cranial nerve"
+        },
+        {
+            "questionNumber": 16,
+            "question": "The only electrical connection between atria and ventricles is:",
+            "options": [
+                "SAN",
+                "AVN",
+                "AV bundle",
+                "Purkinje fibers"
+            ],
+            "answer": "AV bundle"
+        },
+        {
+            "questionNumber": 17,
+            "question": "The right and the left branches of the AV bundle",
+            "options": [
+                "Pass from apex to base",
+                "Pass from base to apex",
+                "Pass down on one side of interventricular septum",
+                "Pass down on either side of inter-atrial septum"
+            ],
+            "answer": "Pass down on one side of interventricular septum"
+        },
+        {
+            "questionNumber": 18,
+            "question": "The 4th heart sound is produced by",
+            "options": [
+                "Atrial diastole",
+                "Atrial systole",
+                "Atrial contraction",
+                "B+c"
+            ],
+            "answer": "B+c"
+        },
+        {
+            "questionNumber": 19,
+            "question": "Ventricular pressure in atrial systole phase",
+            "options": [
+                "Decrease",
+                "Increase",
+                "Decrease then increase",
+                "Increase then decrease"
+            ],
+            "answer": "Increase"
+        },
+        {
+            "questionNumber": 20,
+            "question": "Ventricular volume in isometric contraction phase",
+            "options": [
+                "Decrease",
+                "Increase",
+                "Constant"
+            ],
+            "answer": "Constant"
+        },
+        {
+            "questionNumber": 21,
+            "question": "Phases 5,6,7,8,1 are called:",
+            "options": [
+                "Ventricular systole",
+                "Ventricular diastole",
+                "Atrial contraction",
+                "Isometric contraction phase"
+            ],
+            "answer": "Ventricular systole"
+        },
+        {
+            "questionNumber": 22,
+            "question": "Anacrotic limb coincides with",
+            "options": [
+                "Maximum ejection phase",
+                "Atrial contraction",
+                "Proto-diastole",
+                "Reduced ejection phase"
+            ],
+            "answer": "Maximum ejection phase"
+        },
+        {
+            "questionNumber": 23,
+            "question": "Catacrotic phase coincides with:",
+            "options": [
+                "Maximum ejection phase",
+                "Atrial contraction",
+                "Proto-diastole",
+                "Reduced ejection phase"
+            ],
+            "answer": "Proto-diastole"
+        },
+        {
+            "questionNumber": 24,
+            "question": "Diacrotic phase coincides with:",
+            "options": [
+                "Isometric relaxation phase",
+                "Atrial contraction",
+                "Proto-diastole",
+                "Reduced ejection phase"
+            ],
+            "answer": "Isometric relaxation phase"
+        },
+        {
+            "questionNumber": 25,
+            "question": "The longest phase in cardiac cycle is:",
+            "options": [
+                "Reduced filling phase",
+                "Atrial systole",
+                "Isometric contraction phase",
+                "Proto-diastole"
+            ],
+            "answer": "Proto-diastole"
+        },
+        {
+            "questionNumber": 26,
+            "question": "The short phase in cardiac cycle is:",
+            "options": [
+                "Reduced ejection phase",
+                "Isometric relaxation phase",
+                "Proto-diastole",
+                "Atrial systole"
+            ],
+            "answer": "Atrial systole"
+        },
+        {
+            "questionNumber": 27,
+            "question": "The only atrial connection between atria and ventricles is:",
+            "options": [
+                "SAN",
+                "AVN",
+                "AV bundle",
+                "Purkinje fibers"
+            ],
+            "answer": "AV bundle"
+        },
+        {
+            "questionNumber": 28,
+            "question": "Concerning contractility of cardiac muscle:",
+            "options": [
+                "Systole starts before beginning of action potential",
+                "Diastole is relaxation time",
+                "Negative ionotropic factors include: calcium antagonist, parasympathetic stimulation or heart failure",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "questionNumber": 29,
+            "question": "All of the following statements are true, except:",
+            "options": [
+                "Acetylcholine decreases conduction of SAN",
+                "Digitalis is positive ionotropic, increase force of contraction of heart",
+                "Automaticity of AVN is higher than SAN",
+                "Noradrenaline increases depolarization of SAN"
+            ],
+            "answer": "Automaticity of AVN is higher than SAN"
+        },
+        {
+            "questionNumber": 30,
+            "question": "Normally third heart sound is non-audible, except:",
+            "options": [
+                "Male",
+                "Female",
+                "Children",
+                "Elderly"
+            ],
+            "answer": "Children"
+        },
+        {
+            "questionNumber": 31,
+            "question": "All heart sounds are low-pitched, except:",
+            "options": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th"
+            ],
+            "answer": "4th"
+        },
+        {
+            "questionNumber": 32,
+            "question": "Which of the following statements is true:",
+            "options": [
+                "CVS composed of heart and open system of blood vessels",
+                "CVS composed of heart and lungs and open system of blood vessels",
+                "CVS composed of heart and closed system of blood vessels",
+                "CVS composed of heart and valves"
+            ],
+            "answer": "CVS composed of heart and open system of blood vessels"
+        },
+        {
+            "questionNumber": 33,
+            "question": "Which of the following is character of AVN:",
+            "options": [
+                "It has rhythm of 60 beats/min",
+                "It supplied by right Vagus",
+                "It lies in right atrium",
+                "Heart obeys its rhythm under normal condition"
+            ],
+            "answer": "Heart obeys its rhythm under normal condition"
+        },
+        {
+            "questionNumber": 34,
+            "question": "At -40 mv, which of the following is correct:",
+            "options": [
+                "Ca enters to cause repolarization",
+                "L-type of Ca open",
+                "Ca enters to cause repolarization",
+                "Transient Ca channels open"
+            ],
+            "answer": "L-type of Ca open"
+        },
+        {
+            "questionNumber": 35,
+            "question": "Which of the following causes +ve chronotropy?",
+            "options": [
+                "Sympathetic stimulation",
+                "Acetylcholine",
+                "Parasympathetic stimulation",
+                "Hyperkalemia"
+            ],
+            "answer": "Sympathetic stimulation"
+        },
+        {
+            "questionNumber": 36,
+            "question": "Slowest conduction of the following:",
+            "options": [
+                "Purkinje fibers",
+                "Atrial pathway",
+                "Bundle branches",
+                "Bundle of His"
+            ],
+            "answer": "Bundle of His"
+        },
+        {
+            "questionNumber": 37,
+            "question": "Regrading action potential of heart:",
+            "options": [
+                "Phase 1 is when Cl influx occur",
+                "Phase 0 caused by Ca",
+                "Phase 3 starts by activation of L-type Ca channels",
+                "Phase 4 is hyperpolarization"
+            ],
+            "answer": "Phase 3 starts by activation of L-type Ca channels"
+        },
+        {
+            "questionNumber": 38,
+            "question": "Duration of each cycle is:",
+            "options": [
+                "0.3 sec",
+                "0.5 sec",
+                "0.8 sec",
+                "0.1 sec"
+            ],
+            "answer": "0.8 sec"
+        },
+        {
+            "questionNumber": 39,
+            "question": "Time of atrial systole is……sec:",
+            "options": [
+                "0.5",
+                "0.7",
+                "0.1",
+                "0.8"
+            ],
+            "answer": "0.1"
+        },
+        {
+            "questionNumber": 40,
+            "question": "At end of atrial systole, ventricular volume is called:",
+            "options": [
+                "End diastolic volume",
+                "End diastolic volume and systolic volume",
+                "End systolic volume",
+                "Ventricular volume"
+            ],
+            "answer": "End diastolic volume"
+        },
+        {
+            "questionNumber": 41,
+            "question": "As regards this waves, the reason of A-wave is:",
+            "options": [
+                "Open Na channels and Na influx",
+                "Open of L-type Ca channels",
+                "Open of L-type and closure of T-type Ca channels",
+                "Open of T-type Ca channels"
+            ],
+            "answer": "Open of L-type Ca channels"
+        },
+        {
+            "questionNumber": 42,
+            "question": "Concerning action potential of heart?",
+            "options": [
+                "Depolarization is due to fast Na channels and slow Na channels",
+                "Small fast repolarization is due to closure of Na channels and opening of Cl and K channels",
+                "Plateau is due to balance between Ca & Na inflow with K outflow",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "questionNumber": 43,
+            "question": "Concerning cardiac cycle:",
+            "options": [
+                "70% of ventricular filling is due to atrial systole",
+                "1st heart sound is due to opening of AV valves",
+                "Maximum pressure in aorta is 80mmhg",
+                "C wave of atrial pressure occurs during isometric contraction phase"
+            ],
+            "answer": "70% of ventricular filling is due to atrial systole"
+        },
+        {
+            "questionNumber": 44,
+            "question": "With respect to human heart, all true except:",
+            "options": [
+                "Spread of wave through of ventricles is from endocardial surface outwards",
+                "First heart sound is shorter than 2nd",
+                "Ejection of blood from ventricles between 1st and 2nd heart sounds",
+                "In resting subject, vagotomy will rise heart rate"
+            ],
+            "answer": "In resting subject, vagotomy will rise heart rate"
+        },
+        {
+            "questionNumber": 45,
+            "question": "During isometric contraction phase:",
+            "options": [
+                "A-V valves are closed but semilunar open",
+                "A-V valves are open but semilunar closed",
+                "Both A -V valves & semilunar closed",
+                "Both A -V valves & semilunar open"
+            ],
+            "answer": "Both A -V valves & semilunar closed"
+        },
+        {
+            "questionNumber": 46,
+            "question": "Ventricular filling:",
+            "options": [
+                "Mainly due to atrial contraction",
+                "Followed by isometric relaxation phase",
+                "Results in production of 3rd heart sound during maximum filling phase",
+                "Amount increased if heart rate is increased"
+            ],
+            "answer": "Amount increased if heart rate is increased"
+        },
+        {
+            "questionNumber": 47,
+            "question": "With respect to human heart:",
+            "options": [
+                "Spread of excitation through wall of ventricles from pericardial surface inwards",
+                "1st heart sound shorter than second",
+                "Ejection of blood from ventricles occurs between 1st & 2nd heart sounds",
+                "In resting subject, vagotomy will decrease heart rate"
+            ],
+            "answer": "In resting subject, vagotomy will decrease heart rate"
+        },
+        {
+            "questionNumber": 48,
+            "question": "Regarding 1st heart sound, all true except:",
+            "options": [
+                "Caused by sudden closure of mitral and tricuspid valves",
+                "Occurs during atrial systole",
+                "Longer than 2nd heart sound",
+                "Occurs with onset of ventricular systole"
+            ],
+            "answer": "Occurs during atrial systole"
+        },
+        {
+            "questionNumber": 49,
+            "question": "First hear t sound is mainly, due to:",
+            "options": [
+                "Closure of semilunar valves",
+                "Inflow of blood into aorta",
+                "Inflow of blood into atria",
+                "Closure of AV valves"
+            ],
+            "answer": "Closure of AV valves"
+        },
+        {
+            "questionNumber": 50,
+            "question": "Increase activity of Vagus nerve supply to heart causes all, except:",
+            "options": [
+                "Slowing heart",
+                "Increased contractility of atria",
+                "Inhibition of SAN",
+                "Increase conduction time between atria and ventricles"
+            ],
+            "answer": "Increased contractility of atria"
+        },
+        {
+            "questionNumber": 51,
+            "question": "During isometric contraction phase:",
+            "options": [
+                "Aortic valve open",
+                "AV valves opened",
+                "Pressure inside ventricles less than atria",
+                "Ventricular volume constant"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 52,
+            "question": "Which of the following associated with first heart sound:",
+            "options": [
+                "Rush blood into ventricles due to atrial contraction",
+                "Closure of AV valves",
+                "Closure of pulmonary valve",
+                "Open AV valve",
+                "Rush blood into ventricles in early to middle of diastole"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 53,
+            "question": "Resistance increases when:",
+            "options": [
+                "Radius decreased",
+                "Length decreases",
+                "Viscosity decreases",
+                "Hematocrite decreases",
+                "None of the above"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 54,
+            "question": "The correct pathway through conducting system of heart is:",
+            "options": [
+                "SAN, AVN, AV bundle, bundle branches, purkinje fibers",
+                "AVN, AV bundle, purkinje fibers, bundle branches, SAN",
+                "Purkinje fibers, AVN, bundle branches, AV bundle, SAN",
+                "SAN, AVN, purkinje fibers, bundle branches, AV bundle"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 55,
+            "question": "If communication between SAN and AVN is blocked, which most likely to occur?",
+            "options": [
+                "Rate of ventricular contraction decrease",
+                "Afterload increase",
+                "Rate of atrial contraction decrease",
+                "Stroke volume will increase",
+                "All of the above"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 56,
+            "question": "SAN in heart normal pacemaker because:",
+            "options": [
+                "Has fastest rate of automaticity",
+                "Has both sympathetic and parasympathetic innervation",
+                "Lies in right atrium",
+                "None of the above"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 57,
+            "question": "Which changes in ionic conductance accompany phases of pacemaker potential?",
+            "options": [
+                "In phase 1, decrease K permeability, increase Na permeability while in phase 2, increase Ca permeability",
+                "In phase 1, decrease K permeability, increase Ca permeability while in phase 2, increase Na permeability",
+                "In phase 2, increase Na permeability, while in phase 3, increase K permeability, decrease Ca permeability",
+                "In phase 2, increase Ca permeability, while in phase 3, increase K permeability, decrease Na permeability"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 58,
+            "question": "With respect to action potential in SAN:",
+            "options": [
+                "Resting membrane potential is more negative than non-conducting cardiac muscle",
+                "Depolarization caused by activation of fast voltage gated Na channels",
+                "There is dependance on vagal nerve stimulation for generation of action potential",
+                "Repolarization caused by increased K permeability"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 59,
+            "question": "With respect to conducting system of heart:",
+            "options": [
+                "Refractory period of AVN is shorter than normal cardiac muscle fibers",
+                "SAN has intrinsic rhythmic rate of 40 -60 /min",
+                "AVN is natural pacemaker",
+                "Purkinje fibers have intrinsic rhythmic rate 15 -40/min"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 60,
+            "question": "Cardiac muscle fibers:",
+            "options": [
+                "Act an anatomical syncytium",
+                "Contract with more force when initial length of fiber increased",
+                "Contract rhythmically only when stimulated by autonomic nerves",
+                "Have refractory period shorter than contraction phase"
+            ],
+            "answer": "e"
+        },
+        {
+            "questionNumber": 61,
+            "question": "Propagation of action potential through heart is fastest in:",
+            "options": [
+                "SAN",
+                "AVN",
+                "Purkinje fibers",
+                "Ventricular muscle"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 62,
+            "question": "SAN:",
+            "options": [
+                "Present in left ventricle",
+                "Normal pacemaker",
+                "Activity increased by vagus",
+                "Activity increased by cooling"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 63,
+            "question": "All of conductive tissue of heart, except:",
+            "options": [
+                "SAN",
+                "AVN",
+                "Purkinje fibers",
+                "Ventricular muscle"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 64,
+            "question": "Regarding action potential of ventricle:",
+            "options": [
+                "RMP equals -70",
+                "Plateau phase is due to Ca influx",
+                "Repolarization is due to K influx",
+                "Refractory shorter than skeletal muscle",
+                "Systole of heart"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 65,
+            "question": "Regarding action potential of ventricle:",
+            "options": [
+                "Lasts as long as mechanical response",
+                "Rapid upstroke due to inward Na current I -Na",
+                "Upstroke terminates at +40",
+                "Plateau due to Na inward and K outward"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 66,
+            "question": "Regarding plateau of cardiac muscle, all true, except:",
+            "options": [
+                "Maintained by balance between Ca inward and K outward",
+                "Terminal part is due to Na/Ca exchanger",
+                "It coincides with RRP",
+                "It occurs around +10"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 67,
+            "question": "ARP of cardiac muscle:",
+            "options": [
+                "Coincides with total duration of action potential",
+                "Period during which heart can respond maximal stimulus",
+                "Longer than refractory period of skeletal muscle",
+                "Period during K channels in activated"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 68,
+            "question": "During ARP of cardiac muscle:",
+            "options": [
+                "Strong stimuli will stimulate cardiac muscle",
+                "Cardiac muscle is state of diastole",
+                "Repeated stimuli cause tetanized contraction",
+                "It covers all systole and part of diastole"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 69,
+            "question": "Vulnerable period:",
+            "options": [
+                "It coincides with RRP",
+                "It coincides with 1st half of diastole",
+                "Excitability of cardiac muscle is subnormal",
+                "Stimulation of heart during this period may produce ventricular fibrillation"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 70,
+            "question": "Concerning effects of autonomic nervous system on CVS:",
+            "options": [
+                "Inhibition of parasympathetic nerves increases heart rate",
+                "Inhibition of parasympathetic nerves increases total peripheral resistance",
+                "Inhibition of parasympathetic nerves decreases heart rate",
+                "Stimulation of parasympathetic nerves decreases length of ventricular contractions",
+                "Stimulation of sympathetic nerves decreases length of ventricular contractions"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 71,
+            "question": "Which of the ion channels responsible for plateau of action potential:",
+            "options": [
+                "Cl channels",
+                "K channels",
+                "Na channels",
+                "L-type Ca channels",
+                "T-type Ca channels"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 72,
+            "question": "L-type Ca channels, all true, except:",
+            "options": [
+                "Voltage-gated channels",
+                "Opened during plateau",
+                "Conduct outward current",
+                "Inactivated very slowly"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 73,
+            "question": "During isovolumetric ventricular contraction:",
+            "options": [
+                "Rapid filling of ventricles occur",
+                "No blood enter or leave ventricles",
+                "Maximum volume of blood ejected",
+                "Maximum rate of ejection occurs"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 74,
+            "question": "Opening of AV valves occurs at same time of which of cardiac cycle:",
+            "options": [
+                "Beginning of diastole",
+                "Beginning of systole",
+                "End of isometric contraction",
+                "1st heart sound",
+                "QRS complex of ECG"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 75,
+            "question": "Closure of AV valves occurs at same time of which of cardiac cycle?",
+            "options": [
+                "Beginning of diastole",
+                "End of isometric relaxation",
+                "1st hear sound",
+                "2nd heart sound"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 76,
+            "question": "During ventricular ejection phase:",
+            "options": [
+                "Atria contracting",
+                "AV valves closed",
+                "Pressure inside ventricle less than atria",
+                "Semilunar closed",
+                "Blood ejected to atria"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 77,
+            "question": "Cardiac muscle:",
+            "options": [
+                "Striated",
+                "Myosin but not actin",
+                "Multinucleated cells",
+                "Cells connected to other cardiac muscle by fascia occludens",
+                "Depends on anaerobic oxidation of glucose for energy production"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 78,
+            "question": "Cardiac muscle:",
+            "options": [
+                "Of atria continuous with that of ventricles",
+                "Forms functional syncytium",
+                "Stimulation of single atrial cardiac muscle would cause action potential to travel through entire atrial & ventricular muscle mass",
+                "Have intercalated discs inside muscle fiber",
+                "B & C correct"
+            ],
+            "answer": "e"
+        },
+        {
+            "questionNumber": 79,
+            "question": "Functional syncytium of cardiac muscle cells means that they:",
+            "options": [
+                "Striated",
+                "Involuntary",
+                "Have short refractory period",
+                "Lack stimulation of pacemaker",
+                "Work as unit mechanically and electrically"
+            ],
+            "answer": "e"
+        },
+        {
+            "questionNumber": 80,
+            "question": "Which of the following is not part of specialized self-excitable conductive system of heart?",
+            "options": [
+                "SAN",
+                "AVN",
+                "Papillary muscle",
+                "Bundle of His",
+                "Purkinje fibers"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 81,
+            "question": "Cardiac muscle:",
+            "options": [
+                "Made of same type of tissue as smooth muscle of arteries",
+                "Commonly undergoes prolonged tetanic contractions",
+                "Does not contract unless stimulated by nervous system",
+                "Never undergoes tetanic contractions"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 82,
+            "question": "Which of the following is not true about parasympathetic supply to heart?",
+            "options": [
+                "It affects muscarinic receptors",
+                "It decreases heart rate via action of SAN",
+                "It decreases conduction velocity of AVN",
+                "It can be blocked by beta blockers as propranolol"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 83,
+            "question": "Concerning pacemaker potential:",
+            "options": [
+                "Specialized cells depolarize during: phase 4, but atrial & ventricular do not",
+                "Specialized cells depolarize during: phase 3, but atrial & ventricular do not",
+                "Specialized cells repolarize during: phase 4, but atrial & ventricular do not",
+                "Specialized cells repolarize during: phase 3, but atrial & ventricular do not"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 84,
+            "question": "Which of the following does not show initial rapid depolarization at start of action potential?",
+            "options": [
+                "SAN",
+                "Atrial muscles",
+                "Purkinje fibers",
+                "Ventricular muscles",
+                "Bundle of his"
+            ],
+            "answer": "e"
+        },
+        {
+            "questionNumber": 85,
+            "question": "Slowest conducting velocity occurs in:",
+            "options": [
+                "Atrial muscles",
+                "AVN",
+                "Purkinje fibers",
+                "Ventricular muscles"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 86,
+            "question": "Which changes occur in phase 2 of repolarization:",
+            "options": [
+                "Na channels open, Ca channels open, K channels closed",
+                "Na channels closed, Ca channels closed, K channels open",
+                "Na channels closed, Ca channels open, K channels open",
+                "Na channels open, Ca channels closed, K channels open"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 87,
+            "question": "In cardiac muscle action potential, highest K permeability in:",
+            "options": [
+                "Phase 0",
+                "Phase 1",
+                "Phase 2",
+                "Phase 3",
+                "Phase 4"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 88,
+            "question": "Regarding ventricular action potential:",
+            "options": [
+                "It lasts as long as mechanical response",
+                "Rapid depolarization is due to Ca influx",
+                "RMP= -70",
+                "Plateau due to inward Na and K outward",
+                "ARP coincides with phases 0,1,2"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 89,
+            "question": "Function of AVN is to:",
+            "options": [
+                "Excites left & right atria",
+                "Prevent atria & ventricles from contracting simultaneously",
+                "Repolarizes heart after systole",
+                "None of the above"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 90,
+            "question": "SAN is pacemaker of heart because:",
+            "options": [
+                "Highest rate of automatic discharge",
+                "Has most stable RMP",
+                "Most richly innervated in heart",
+                "Only structure can generate action potential"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 91,
+            "question": "Myocardial contractility is increased in the following, except:",
+            "options": [
+                "Catecholamines",
+                "Increase in heart rate",
+                "Increase in end diastolic volume",
+                "Increase in parasympathetic stimulation",
+                "Calcium ions"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 92,
+            "question": "Which of the following is not method to remove cytosolic Ca from cardiac muscle:",
+            "options": [
+                "Na-Ca exchanger transports Ca out",
+                "ATP-dependent pump on sarcoplasmic reticulum",
+                "Ca diffuse passively out of cardiac cell",
+                "ATP-dependent pump on sarcolemma diffuse Ca out"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 93,
+            "question": "Sympathetic system has following effects on heart:",
+            "options": [
+                "Increase heart rate",
+                "Increase contractility",
+                "Increase Ca inflow",
+                "All of the above"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 94,
+            "question": "Low resistance pathway that allow spread of action potential between myocardial cells is:",
+            "options": [
+                "Gap junctions",
+                "T-tubules",
+                "Sarcoplasmic reticulum",
+                "Intercalated discs"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 95,
+            "question": "Effect of parasympathetic on heart:",
+            "options": [
+                "Slow heart rate",
+                "Increase activity of SAN",
+                "Increase activity of AVN",
+                "Increase conduction in bundle of His"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 96,
+            "question": "ARP of cardiac muscle:",
+            "options": [
+                "Coincides with phase 0,1,2, 1st ½ of 3",
+                "Cardiac muscle can respond to high intensity stimulus",
+                "Maintained opening of Na channels",
+                "Coincides with systole"
+            ],
+            "answer": "a"
+        },
+        {
+            "questionNumber": 97,
+            "question": "Prepotential:",
+            "options": [
+                "Present in ordinary cardiac muscle",
+                "Due to increase permeability to K",
+                "Slope decreased with sympathetic",
+                "Essential for rhythmicity"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 98,
+            "question": "Mechanism of lower Ca by all, except:",
+            "options": [
+                "Transport of Ca out by Na-Ca exchanger",
+                "Active pump using ATP on sarcoplasmic reticulum",
+                "Binding of Ca to tropomyosin",
+                "Binding of Ca to Calmodulin"
+            ],
+            "answer": "c"
+        },
+        {
+            "questionNumber": 99,
+            "question": "All ventricular muscle cells beat at same time because:",
+            "options": [
+                "They are supplied by vagus",
+                "Their number is small",
+                "They are supplied by sympathetic nerves",
+                "They are connected to each other by intercalated disc"
+            ],
+            "answer": "d"
+        },
+        {
+            "questionNumber": 100,
+            "question": "The following describe cardiac muscle, except:",
+            "options": [
+                "It is functional syncytium",
+                "It is anatomical syncytium",
+                "It exhibits myogenic rhythmicity",
+                "It is striated"
+            ],
+            "answer": "b"
+        },
+        {
+            "questionNumber": 101,
+            "question": "Chronotropism refers to:",
+            "options": [
+                "Rhythmicity",
+                "Conductivity",
+                "Excitability",
+                "Contractility"
+            ],
+            "answer": "Rhythmicity"
+        },
+        {
+            "questionNumber": 102,
+            "question": "About cardiac conductivity, all true except:",
+            "options": [
+                "It is slowest in AVN",
+                "It is maximal in purkinje fibers",
+                "It is slowest in ventricular muscle",
+                "It is decreased by vagal stimulation"
+            ],
+            "answer": "It is decreased by vagal stimulation"
+        },
+        {
+            "questionNumber": 103,
+            "question": "Pacemaker potential is primarily due to:",
+            "options": [
+                "Slow decrease in K permeability",
+                "Slow increase in K permeability",
+                "Slow decrease in Na permeability",
+                "Rapid increase in Ca permeability"
+            ],
+            "answer": "Rapid increase in Ca permeability"
+        },
+        {
+            "questionNumber": 104,
+            "question": "Upstroke limb of action potential in SAN is in response to:",
+            "options": [
+                "Open voltage gated Na channels",
+                "Open T -type Ca channels",
+                "Open L -type Ca channels",
+                "Open voltage gated K channels"
+            ],
+            "answer": "Open voltage gated Na channels"
+        },
+        {
+            "questionNumber": 105,
+            "question": "ARP, all true except:",
+            "options": [
+                "It lasts approximately as long as cardiac contraction",
+                "It longer than ARP in skeletal muscles",
+                "It corresponds in time with whole duration of action potential",
+                "During it, heart can be stimulated"
+            ],
+            "answer": "During it, heart can be stimulated"
+        },
+        {
+            "questionNumber": 106,
+            "question": "In ECG, time between atrial depolariz ation and ventricular depolarization, called:",
+            "options": [
+                "P wave",
+                "QRS wave",
+                "S-T segment",
+                "P-R segment"
+            ],
+            "answer": "P-R segment"
+        },
+        {
+            "questionNumber": 107,
+            "question": "Concerning ECG, all true except:",
+            "options": [
+                "P-wave coincides with depolarization of atria",
+                "P-R interval of 0.3 sec indicates impaired conduction",
+                "R- wave coincides with depolarization of apex of heart",
+                "Q- wave coincides with depolarization of atria"
+            ],
+            "answer": "Q- wave coincides with depolarization of atria"
+        },
+        {
+            "questionNumber": 108,
+            "question": "Suppression of activity of SAN leads to:",
+            "options": [
+                "Prolongation of P -R interval",
+                "Shortening of Q -T interval",
+                "AVN becomes pacemaker of heart",
+                "Normal P - wave"
+            ],
+            "answer": "AVN becomes pacemaker of heart"
+        },
+        {
+            "questionNumber": 109,
+            "question": "In ECG, T -wave refers to:",
+            "options": [
+                "Atrial depolarization",
+                "Atrial repolarization",
+                "Ventricular depolarization",
+                "Ventricular repolarization"
+            ],
+            "answer": "Ventricular repolarization"
+        },
+        {
+            "questionNumber": 110,
+            "question": "Person’s ECG has no P -wave, but normal QRS & T -waves, pacemaker located in:",
+            "options": [
+                "SAN ",
+                "AVN ",
+                "Bundle of His ",
+                "Purkinje system"
+            ],
+            "answer": "Purkinje system"
+        },
+        {
+            "questionNumber": 111,
+            "question": "During first degree AVN block:",
+            "options": [
+                "Most P -wave followed by QRS ",
+                "QRS last longer ",
+                "Heart rate lower than normal ",
+                "P-R interval longer than normal"
+            ],
+            "answer": "P-R interval longer than normal"
+        },
+        {
+            "questionNumber": 112,
+            "question": "Complete heart block recognized in ECG by:",
+            "options": [
+                "Prolonged P -R interval ",
+                "Prolonged QRS complex ",
+                "Dissociation between atria & ventricles ",
+                "Irregular pulse rate"
+            ],
+            "answer": "Dissociation between atria & ventricles "
+        },
+        {
+            "questionNumber": 113,
+            "question": "In normal ECG:",
+            "options": [
+                "P wave associated with repolarization of atria ",
+                "QRS immediately follows contraction of ventricles ",
+                "T wave due to depolarization of ventricles ",
+                "ST segment represents plateau"
+            ],
+            "answer": "ST segment represents plateau"
+        },
+        {
+            "questionNumber": 114,
+            "question": "During isometric contraction phase, ventricular volume:",
+            "options": [
+                "Decreases ",
+                "Increases ",
+                "Unchanged ",
+                "Decreases then increases"
+            ],
+            "answer": "Unchanged"
+        },
+        {
+            "questionNumber": 115,
+            "question": "With respect to cardiac cycle ",
+            "options": [
+                "Aortic valves open in isometric contraction phase ",
+                "3rd heart sound occurs at end of reduced filling phase ",
+                "T-wave of ECG ends at time of aortic valve closure ",
+                "A wave coincides with 4th heart sound"
+            ],
+            "answer": "A wave coincides with 4th heart sound"
+        },
+        {
+            "questionNumber": 116,
+            "question": "During atrial systole of cardiac cycle:",
+            "options": [
+                "1st heart sound occurs ",
+                "Over 70% of ventricular filling occurs ",
+                "AV valves closed ",
+                "Aortic valve closed"
+            ],
+            "answer": "Over 70% of ventricular filling occurs "
+        },
+        {
+            "questionNumber": 117,
+            "question": "During ventricular ejection phase:",
+            "options": [
+                "2nd heart sound occurs ",
+                "QRS complex of ECG ",
+                "Atrial contraction continues ",
+                "A-V valves closed"
+            ],
+            "answer": "A-V valves closed"
+        },
+        {
+            "questionNumber": 118,
+            "question": "Ventricular pressure higher than atrial pressure in:",
+            "options": [
+                "Isometric contraction phase ",
+                "Atrial systole ",
+                "Maximum ejection phase ",
+                "Reduced ejection phase"
+            ],
+            "answer": "Maximum ejection phase "
+        },
+        {
+            "questionNumber": 119,
+            "question": "-ve C wave occurs in:",
+            "options": [
+                "Isometric contraction phase ",
+                "Atrial systole ",
+                "Maximum ejection phase ",
+                "Reduced ejection phase"
+            ],
+            "answer": "Atrial systole"
+        },
+        {
+            "questionNumber": 120,
+            "question": "Diacrotic notch due to:",
+            "options": [
+                "Sudden closure of AV valves ",
+                "Sudden closure of aortic valves ",
+                "Sudden decreases in aortic pressure ",
+                "Marked decrease in ventricular pressure"
+            ],
+            "answer": "Sudden closure of AV valves "
+        },
+        {
+            "questionNumber": 121,
+            "question": "AV valves opened in:",
+            "options": [
+                "Isometric contraction phase ",
+                "Atrial systole phase ",
+                "Protodiastolic phase ",
+                "Maximum ejection phase"
+            ],
+            "answer": "Protodiastolic phase"
+        },
+        {
+            "questionNumber": 122,
+            "question": "1st heart sound occurs with ",
+            "options": [
+                "Rise in ventricular pressure ",
+                "Fall in atrial pressure ",
+                "P-wave of ECG ",
+                "Closure of semilunar valves"
+            ],
+            "answer": "Closure of semilunar valves"
+        },
+        {
+            "questionNumber": 123,
+            "question": "During maximum ejection phase, all true except:",
+            "options": [
+                "1st sound heard ",
+                "T-wave of ECG at its peak ",
+                "Ventricular volume decreased ",
+                "Ventricular pressure reach maximum"
+            ],
+            "answer": "Ventricular volume decreased "
+        },
+        {
+            "questionNumber": 124,
+            "question": "About first hear sound, all true except:",
+            "options": [
+                "Mainly caused by turbulence set up by closure of AV valves ",
+                "More longer than 2nd heart sound ",
+                "Coincides with P -wave of ECG ",
+                "Its pitch (frequency) lower than 2nd heart sound"
+            ],
+            "answer": "Coincides with P -wave of ECG "
+        },
+        {
+            "questionNumber": 125,
+            "question": "1st heart sound coincides with ",
+            "options": [
+                "Isometric contraction phase ",
+                "Isometric relaxation phase ",
+                "Ejection phase ",
+                "Protodiastolic phase"
+            ],
+            "answer": "Protodiastolic phase"
+        },
+        {
+            "questionNumber": 126,
+            "question": "2nd component of 1st heart sound due to:",
+            "options": [
+                "Sudden closure of AV valves ",
+                "Sudden closure of semilunar valves ",
+                "Turbulence of blood in aortic artery and pulmonary artery ",
+                "Opening of AV valves"
+            ],
+            "answer": "Turbulence of blood in aortic artery and pulmonary artery "
+        },
+        {
+            "questionNumber": 127,
+            "question": "1st component of 1st heart sound due to:",
+            "options": [
+                "Sudden closure of AV valves ",
+                "Sudden closure of semilunar valves ",
+                "Turbulence of blood in aortic artery and pulmonary artery ",
+                "Opening of AV valves"
+            ],
+            "answer": "Sudden closure of AV valves "
+        },
+        {
+            "questionNumber": 128,
+            "question": "Increase vagal stimulation causes increase in:",
+            "options": [
+                "Heart rate ",
+                "P-R interval ",
+                "Ventricular contractility ",
+                "SAN action potential"
+            ],
+            "answer": "P-R interval "
+        },
+        {
+            "questionNumber": 129,
+            "question": "According to starling law, cardiac output is directly related to:",
+            "options": [
+                "Size of ventricles ",
+                "Heart rate ",
+                "Amount of blood returning to heart ",
+                "End-systolic volume ",
+                "Cardiac reserve"
+            ],
+            "answer": "Amount of blood returning to heart "
+        },
+        {
+            "questionNumber": 130,
+            "question": "Cardiac output is equal to:",
+            "options": [
+                "Diastolic BP + 1/3 (systolic BP - diastolic BP) ",
+                "HR X SV ",
+                "EDV- ESV ",
+                "EDV-SV X HR ",
+                "HRX BP"
+            ],
+            "answer": "HR X SV "
+        },
+        {
+            "questionNumber": 131,
+            "question": "In general, veins exhibit this character when compared to arteries:",
+            "options": [
+                "Thinner walled ",
+                "Have more smooth muscles in tunica media ",
+                "Carry faster moving blood ",
+                "Have thicker endothelium ",
+                "Are more elastic"
+            ],
+            "answer": "Have more smooth muscles in tunica media "
+        },
+        {
+            "questionNumber": 132,
+            "question": "The blood vessels that play the most important role in regulation of blood flow to tissues and blood pressure are:",
+            "options": [
+                "Arterioles ",
+                "Capillaries ",
+                "Veins ",
+                "Venules"
+            ],
+            "answer": "Arterioles"
+        },
+        {
+            "questionNumber": 133,
+            "question": "What effect would be compressing IVC below diaphragm have on cardiac function:",
+            "options": [
+                "Stroke volume would decrease ",
+                "Cardiac output would decrease ",
+                "Sympathetic stimulation of heart eventually increases ",
+                "Heart rate would eventually increase ",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "questionNumber": 134,
+            "question": "A patient with coronary artery disease (CAD) experiencing severe angina and self-administers sublingual nitroglycerine. This will act as:",
+            "options": [
+                "Cardiac beta -blocker ",
+                "Coronary vasodilator ",
+                "Coronary vasoconstrictor ",
+                "Anticoagulant blood thinner ",
+                "Angio -plastic agent"
+            ],
+            "answer": "Coronary vasodilator "
+        },
+        {
+            "questionNumber": 135,
+            "question": "Normal jugular venous pressure C waves occur:",
+            "options": [
+                "Just prior to atrial systole ",
+                "Just after ventricular systole ",
+                "During ventricular systole ",
+                "During expiration"
+            ],
+            "answer": "Just after ventricular systole "
+        },
+        {
+            "questionNumber": 136,
+            "question": "In normal heart at rest, LV end -systolic volume is:",
+            "options": [
+                "10-30 ml ",
+                "50-70 ml ",
+                "120-150 ml ",
+                "80-100 ml"
+            ],
+            "answer": "80-100 ml"
+        },
+        {
+            "questionNumber": 137,
+            "question": "In exercising muscle, the major increase in blood flow is due to:",
+            "options": [
+                "Sympathetic vasodilatation ",
+                "Metabolic vasodilatation ",
+                "Parasympathetic vasodilatation ",
+                "Muscle pumping"
+            ],
+            "answer": "Metabolic vasodilatation "
+        },
+        {
+            "questionNumber": 138,
+            "question": "Local metabolic control is most important in determining flow to:",
+            "options": [
+                "Skin ",
+                "Lungs ",
+                "Skeletal muscles ",
+                "Kidney ",
+                "Liver"
+            ],
+            "answer": "Skeletal muscles "
+        },
+        {
+            "questionNumber": 139,
+            "question": "As blood travels from aorta to capillaries:",
+            "options": [
+                "Pressure increase ",
+                "Viscosity increase ",
+                "Resistance increase ",
+                "Velocity increase ",
+                "Flow increase"
+            ],
+            "answer": "Resistance increase "
+        },
+        {
+            "questionNumber": 140,
+            "question": "A patient with hypothalamic tumor causes excessive ADH secretion. When blood pressure taken, reading expected:",
+            "options": [
+                "95/65 ",
+                "115/80 ",
+                "120/65 ",
+                "165/100"
+            ],
+            "answer": "165/100"
+        },
+        {
+            "questionNumber": 141,
+            "question": "Which of the following is not risk factor for developing atherosclerosis (HTN):",
+            "options": [
+                "Male ",
+                "Diabetes ",
+                "Smoking ",
+                "High HDL ",
+                "High dietary fat"
+            ],
+            "answer": "High HDL "
+        },
+        {
+            "questionNumber": 142,
+            "question": "Baroreceptors located in all except:",
+            "options": [
+                "Carotid sinus ",
+                "Carotid body ",
+                "Aortic sinus ",
+                "Aortic arch"
+            ],
+            "answer": "Carotid body "
+        },
+        {
+            "questionNumber": 143,
+            "question": "Long term control of tissue blood flow includes:",
+            "options": [
+                "Adenosine ",
+                "Nitric oxide ",
+                "Change in tissue vascularity ",
+                "Oxygen tension at pre -capillary sphincter"
+            ],
+            "answer": "Change in tissue vascularity "
+        },
+        {
+            "questionNumber": 144,
+            "question": "Atrial component of ventricular filling is:",
+            "options": [
+                "5% ",
+                "10% ",
+                "30% ",
+                "50% ",
+                "80%"
+            ],
+            "answer": "30%"
+        },
+        {
+            "questionNumber": 145,
+            "question": "Which one of the following causes vasodilatations:",
+            "options": [
+                "TXA2 ",
+                "Endothelins ",
+                "Neuropeptide Y ",
+                "Angiotensin II"
+            ],
+            "answer": "TXA2 "
+        },
+        {
+            "questionNumber": 146,
+            "question": "Mr Amir shaving his beard when he fell down in bathroom, his son quickly took him to hospital where his blood pressure was 80/50 mmhg . He was given fluids to correct his condition. Which of the following is correct concerning his condition:",
+            "options": [
+                "He fell down due to cerebral edema ",
+                "Baroreceptors send impulses through 10th & 11th cranial nerves ",
+                "Baroreceptors are very sensitive and respond to mild pressure (carotid sinus syndrome)"
+            ],
+            "answer": "Baroreceptors are very sensitive and respond to mild pressure (carotid sinus syndrome)"
+        },
+        {
+            "questionNumber": 147,
+            "question": "Which of the following can assess cardiac reserve:",
+            "options": [
+                "High dose dobutamine echo ",
+                "Determination of pulse ",
+                "Determination of blood pressure ",
+                "Low dose dobutamine echo"
+            ],
+            "answer": "Low dose dobutamine echo"
+        },
+        {
+            "questionNumber": 148,
+            "question": "Which of the followings is active:",
+            "options": [
+                "Pro-renin ",
+                "Angiotensinogen ",
+                "Angiotensin I ",
+                "Angiotensin II"
+            ],
+            "answer": "Angiotensin II"
+        },
+        {
+            "questionNumber": 149,
+            "question": "Which of the following best determines stroke volume:",
+            "options": [
+                "SV= EDV/ESV ",
+                "SV= ESV - EDV ",
+                "SV= EDV - ESV ",
+                "SV= ESV/EDV"
+            ],
+            "answer": "SV= EDV - ESV "
+        },
+        {
+            "questionNumber": 150,
+            "question": "A person with arterial blood pressure 110/70 which of the following can calculate mean systemic arterial pressure?",
+            "options": [
+                "(70+110) x 1/3 – 70 ",
+                "(70+110) x 1/3 +70 ",
+                "(70-110) x 1/3 - 70 ",
+                "(70-110) x 1/3+ 70"
+            ],
+            "answer": "(70+110) x 1/3 +70 "
+        },
+        {
+            "questionNumber": 151,
+            "question": "Which of the following are normal values for aortic and pulmonary arteries diastolic pressures?",
+            "options": [
+                "a. 60 mmhg , 5 mmhg",
+                "b. 120 mmhg , 25 mmhg",
+                "c. 80 mmhg , 10 mmhg",
+                "d. 100 mmhg , 35 mmhg"
+            ],
+            "answer": "c. 80 mmhg , 10 mmhg"
+        },
+        {
+            "questionNumber": 152,
+            "question": "Calculate ejection fraction in person, when end diastolic volume is 137 ml and end systolic volume is 65 ml?",
+            "options": [
+                "a. 42.5%",
+                "b. 55%",
+                "c. 47.4%",
+                "d. 52.5%"
+            ],
+            "answer": "c. 47.4%"
+        },
+        {
+            "questionNumber": 153,
+            "question": "Which of the following is correct concerning ventricle?",
+            "options": [
+                "a. It has thick wall in left ventricle to act as reservoir of blood",
+                "b. The right ventricle pushes blood to aorta",
+                "c. The left ventricle propels blood to pulmonary artery",
+                "d. The right ventricle act as volume pump"
+            ],
+            "answer": "d. The right ventricle act as volume pump"
+        },
+        {
+            "questionNumber": 154,
+            "question": "Which of the following is likely to present at L -max of cardiac muscle?",
+            "options": [
+                "a. Some cross bridges of myosin bind to some active sites of actin",
+                "b. All cross bridges of myosin bind to active sites of actin",
+                "c. Tetanus occur in heart",
+                "d. None of cross bridges formed between actin and myosin"
+            ],
+            "answer": "a. Some cross bridges of myosin bind to some active sites of actin"
+        },
+        {
+            "questionNumber": 155,
+            "question": "Which of the following reach apex of heart?",
+            "options": [
+                "a. AVN",
+                "b. Right and left bundle branches",
+                "c. Purkinje fibers",
+                "d. Bundle of his"
+            ],
+            "answer": "d. Bundle of his"
+        },
+        {
+            "questionNumber": 156,
+            "question": "Starling’s law of heart states that strength of contraction is proportional to:",
+            "options": [
+                "a. Myocardial O2 supply",
+                "b. Stroke volume",
+                "c. End diastolic volume",
+                "d. Arterial blood pressure"
+            ],
+            "answer": "c. End diastolic volume"
+        },
+        {
+            "questionNumber": 157,
+            "question": "The cardiac tissue with slowed rhythmicity is:",
+            "options": [
+                "a. SAN without vagal tone",
+                "b. SAN with vagal tone",
+                "c. Ventricular muscle",
+                "d. Purkinje fibers"
+            ],
+            "answer": "b. SAN with vagal tone"
+        },
+        {
+            "questionNumber": 158,
+            "question": "Contractile response of cardiac muscle:",
+            "options": [
+                "a. Obeys all or none law",
+                "b. Starts at same time of electric excitation",
+                "c. Triggered by release of Ca from SR as in skeletal muscles",
+                "d. Last for same time as its action potential"
+            ],
+            "answer": "a. Obeys all or none law"
+        },
+        {
+            "questionNumber": 159,
+            "question": "The electrocardiographic lead avr is best described as:",
+            "options": [
+                "a. Unipolar",
+                "b. Bipolar",
+                "c. Augmented unipolar",
+                "d. Augmented bipolar"
+            ],
+            "answer": "c. Augmented unipolar"
+        },
+        {
+            "questionNumber": 160,
+            "question": "Deep Q wave indicates:",
+            "options": [
+                "a. Heart block",
+                "b. Injury current",
+                "c. Electric window",
+                "d. Ischemia"
+            ],
+            "answer": "d. Ischemia"
+        },
+        {
+            "questionNumber": 161,
+            "question": "Duration of cardiac cycle with heart rate 75 beat/minute is:",
+            "options": [
+                "a. 2 sec",
+                "b. 0.2 sec",
+                "c. 0.8 sec",
+                "d. 1.5 sec"
+            ],
+            "answer": "c. 0.8 sec"
+        },
+        {
+            "questionNumber": 162,
+            "question": "Cannon waves in jugular venous pulse are:",
+            "options": [
+                "a. A special form of V -wave",
+                "b. Seen in complete heart block",
+                "c. Associated with 2nd degree heart block",
+                "d. Associated with atrial fibrillation"
+            ],
+            "answer": "b. Seen in complete heart block"
+        },
+        {
+            "questionNumber": 163,
+            "question": "A wave of JVP caused by:",
+            "options": [
+                "a. Pacemaker potential",
+                "b. Atrial depolarization",
+                "c. Ventricular repolarization",
+                "d. Atrial contraction"
+            ],
+            "answer": "d. Atrial contraction"
+        },
+        {
+            "questionNumber": 164,
+            "question": "C wave in JVP occurs in:",
+            "options": [
+                "a. Isometric contraction phase",
+                "b. Isometric relaxation phase",
+                "c. Maximum ejection phase",
+                "d. Atrial systole phase"
+            ],
+            "answer": "a. Isometric contraction phase"
+        },
+        {
+            "questionNumber": 165,
+            "question": "Systolic pressure in left ventricle is:",
+            "options": [
+                "a. 130 mmhg",
+                "b. 110 mmhg",
+                "c. 150 mmhg",
+                "d. 80 mmhg"
+            ],
+            "answer": "c. 150 mmhg"
+        },
+        {
+            "questionNumber": 166,
+            "question": "Which of the following concerned with regulation of heart rate and blood pressure?",
+            "options": [
+                "a. Alam -smirk reflex",
+                "b. Marey’s law",
+                "c. Starling law",
+                "d. None of the above"
+            ],
+            "answer": "a. Alam -smirk reflex"
+        },
+        {
+            "questionNumber": 167,
+            "question": "Buffer nerves are branches of:",
+            "options": [
+                "a. Vagus and glossopharyngeal",
+                "b. Trigeminal nerves",
+                "c. Fascial nerves",
+                "d. None of the above"
+            ],
+            "answer": "a. Vagus and glossopharyngeal"
+        },
+        {
+            "questionNumber": 168,
+            "question": "Blood pressure increases and heart rate decreases in:",
+            "options": [
+                "a. Exercise",
+                "b. Increase body temperature",
+                "c. Exposure to high altitude",
+                "d. Increase intracranial tension"
+            ],
+            "answer": "d. Increase intracranial tension"
+        },
+        {
+            "questionNumber": 169,
+            "question": "Trigger zones include all these areas except:",
+            "options": [
+                "a. Eyeball",
+                "b. Larynx",
+                "c. Epigastrium",
+                "d. Apex of heart"
+            ],
+            "answer": "d. Apex of heart"
+        },
+        {
+            "questionNumber": 170,
+            "question": "All decrease cardiac output except:",
+            "options": [
+                "a. Increase vagal activity",
+                "b. Rapid paroxysmal tachycardia",
+                "c. Increase end -diastolic volume",
+                "d. Standing up from recumbent position"
+            ],
+            "answer": "c. Increase end -diastolic volume"
+        },
+        {
+            "questionNumber": 171,
+            "question": "The cardiac output:",
+            "options": [
+                "a. Combined blood volumes pumped by both ventricles/minute",
+                "b. Increase when there is overstretch of ventricle",
+                "c. Matches venous return in normal heart",
+                "d. Falls when person with heart failure given digitalis"
+            ],
+            "answer": "a. Combined blood volumes pumped by both ventricles/minute"
+        },
+        {
+            "questionNumber": 172,
+            "question": "Within physiological limits, if EDV increased:",
+            "options": [
+                "a.  Force of cardiac contraction increased",
+                "b. Stroke volume increased",
+                "c. Cardiac output increased",
+                "d. All of the above"
+            ],
+            "answer": "d. All of the above"
+        },
+        {
+            "questionNumber": 173,
+            "question": "Cardiac index is ration between:",
+            "options": [
+                "a. Cardiac output and surface area",
+                "b. Cardiac output and body weight",
+                "c. Cardiac output and work of heart",
+                "d. Stroke volume and body weight"
+            ],
+            "answer": "a. Cardiac output and surface area"
+        },
+        {
+            "questionNumber": 174,
+            "question": "Cardiac output decreased:",
+            "options": [
+                "a. On standing up",
+                "b. Stimulation of sympathetic",
+                "c. Increase EDV",
+                "d. Cut vagus nerve to heart"
+            ],
+            "answer": "a. On standing up"
+        },
+        {
+            "questionNumber": 175,
+            "question": "Stroke volume increased by all, except:",
+            "options": [
+                "a. Sympathetic stimulation",
+                "b. Decreased venous return",
+                "c. Digitalis",
+                "d. Stretch cardiac muscle"
+            ],
+            "answer": "b. Decreased venous return"
+        },
+        {
+            "questionNumber": 176,
+            "question": "All increase COP, except:",
+            "options": [
+                "a. Increase EDV",
+                "b. Valsalva maneuver",
+                "c. Increase VR",
+                "d. Moderate tachycardia"
+            ],
+            "answer": "a. Increase EDV"
+        },
+        {
+            "questionNumber": 177,
+            "question": "COP:",
+            "options": [
+                "a. Determined by end -systolic pressure x heart rate",
+                "b. Equals ½ VR",
+                "c. Increase at very slow HR",
+                "d. Increase by action of +ve inotropic factors"
+            ],
+            "answer": "d. Increase by action of +ve inotropic factors"
+        },
+        {
+            "questionNumber": 178,
+            "question": "COP:",
+            "options": [
+                "a. Increase on standing",
+                "b. Increase by beta blockers",
+                "c. Increase by catecholamines",
+                "d. Increased necessarily by increasing HR"
+            ],
+            "answer": "d. Increased necessarily by increasing HR"
+        },
+        {
+            "questionNumber": 179,
+            "question": "Venous return to heart increased by:",
+            "options": [
+                "a. Vasodilatation",
+                "b. Increase RAP",
+                "c. Relax skeletal muscles",
+                "d. Increase negativity of thoracic pressure"
+            ],
+            "answer": "d. Increase negativity of thoracic pressure"
+        },
+        {
+            "questionNumber": 180,
+            "question": "As regards venous return, all true except:",
+            "options": [
+                "a. Sympathetic venomotor tone helps maintain it constant",
+                "b. Primary controller of COP",
+                "c. Directly proportional to RAP",
+                "d. Increased by increase intrathoracic negativity"
+            ],
+            "answer": "b. Primary controller of COP"
+        },
+        {
+            "questionNumber": 181,
+            "question": "Increased discharge from baroreceptors leads to:",
+            "options": [
+                "a. Stimulation of vasomotor center",
+                "b. Stimulation of cardio -inhibitory center",
+                "c. Stimulation of respiratory center",
+                "d. Increase ADH secretion"
+            ],
+            "answer": "a. Stimulation of vasomotor center"
+        },
+        {
+            "questionNumber": 182,
+            "question": "In case of hemorrhage, carotid body chemoreceptors may:",
+            "options": [
+                "a. Decrease heart rate",
+                "b. Slow respiration",
+                "c. Increase ABP",
+                "d. Produces heart block"
+            ],
+            "answer": "c. Increase ABP"
+        },
+        {
+            "questionNumber": 183,
+            "question": "Angiotensinogen is:",
+            "options": [
+                "a. Lipoprotein substance",
+                "b. Diuretic substance",
+                "c. Powerful VC substance",
+                "d. Activated by renin"
+            ],
+            "answer": "d. Activated by renin"
+        },
+        {
+            "questionNumber": 184,
+            "question": "Angiotensin II:",
+            "options": [
+                "a. Formed by action of enzyme on angiotensin III",
+                "b. Released by juxtaglomerular apparatus in kidney",
+                "c. Act through stimulating vasomotor center",
+                "d. Formed by renin in circulation"
+            ],
+            "answer": "c. Act through stimulating vasomotor center"
+        },
+        {
+            "questionNumber": 185,
+            "question": "Angiotensin converting enzyme:",
+            "options": [
+                "a. Normally absent in plasma and lung",
+                "b. Causes VC in arterioles",
+                "c. Converts angiotensin I to II",
+                "d. Converts angiotensinogen to angiotensin I"
+            ],
+            "answer": "c. Converts angiotensin I to II"
+        },
+        {
+            "questionNumber": 186,
+            "question": "As regards mediators act on blood vessels, all true except:",
+            "options": [
+                "a. Norepinephrine is neurotransmitter for arteriolar VC",
+                "b. Acetylcholine and substance P are neurotransmitters for arteriolar VD",
+                "c. Renin and angiotensin I produce arteriolar VC",
+                "d. Catecholamines, angiotensin II and vasopressin are circulating VC"
+            ],
+            "answer": "b. Acetylcholine and substance P are neurotransmitters for arteriolar VD"
+        },
+        {
+            "questionNumber": 187,
+            "question": "Effects of gravity on venous return counterbalanced by:",
+            "options": [
+                "a. Pressure gradient",
+                "b. Skeletal muscle contraction and noradrenaline constricts vein",
+                "c. Arteriolar VD",
+                "d. Increase HR & RR"
+            ],
+            "answer": "b. Skeletal muscle contraction and noradrenaline constricts vein"
+        },
+        {
+            "questionNumber": 188,
+            "question": "Stimulation of CIC causes:",
+            "options": [
+                "a. Inhibits VCC causing VD",
+                "b. Leads to tachycardia",
+                "c. Inhibits transmission from sympathetic",
+                "d. All of the above"
+            ],
+            "answer": "a. Inhibits VCC causing VD"
+        },
+        {
+            "questionNumber": 189,
+            "question": "Sympathetic VC decreased by increase:",
+            "options": [
+                "a. Carotid sinus baroreceptors",
+                "b. Medullary chemoreceptors",
+                "c. Pain receptors",
+                "d. Carotid body chemoreceptors"
+            ],
+            "answer": "a. Carotid sinus baroreceptors"
+        },
+        {
+            "questionNumber": 190,
+            "question": "Pulse pressure determined by:",
+            "options": [
+                "a. Cross sectional area",
+                "b. Anatomical configuration",
+                "c. Distensibility",
+                "d. Distance from heart"
+            ],
+            "answer": "c. Distensibility"
+        },
+        {
+            "questionNumber": 191,
+            "question": "Normal arterial BP kept constant by:",
+            "options": [
+                "a. Baroreceptors",
+                "b. Venoconstriction",
+                "c. Accelerated respiration",
+                "d. Sympathetic VD cholinergic discharge to skeletal muscles"
+            ],
+            "answer": "a. Baroreceptors"
+        },
+        {
+            "questionNumber": 192,
+            "question": "Left ventricular hypertrophy occurs in, except:",
+            "options": [
+                "a. Aortic regurgitation",
+                "b. Mitral stenosis",
+                "c. Aortic stenosis",
+                "d. Chronic systemic HTN"
+            ],
+            "answer": "b. Mitral stenosis"
+        },
+        {
+            "questionNumber": 193,
+            "question": "Systemic ABP:",
+            "options": [
+                "a. Decrease with age",
+                "b. Decrease with exposure to cold",
+                "c. Increase with upright posture",
+                "d. Increase in brain stem asphyxia"
+            ],
+            "answer": "c. Increase with upright posture"
+        },
+        {
+            "questionNumber": 194,
+            "question": "VD occurs by:",
+            "options": [
+                "a. Vasopressin",
+                "b. Bradykinins",
+                "c. Angiotensin I",
+                "d. Norepinephrine"
+            ],
+            "answer": "d. Norepinephrine"
+        },
+        {
+            "questionNumber": 195,
+            "question": "Stimulation of sympathetic cause all, except:",
+            "options": [
+                "a. Increase O2 consumption",
+                "b. Increase slope of pacemaker",
+                "c. Decrease coronary blood flow",
+                "d. Increase COP"
+            ],
+            "answer": "c. Decrease coronary blood flow"
+        },
+        {
+            "questionNumber": 196,
+            "question": "Systolic ABP:",
+            "options": [
+                "a. Unaffected by change with posture",
+                "b. Increased directly by renin",
+                "c. Affected by venous return",
+                "d. Unaffected by peripheral resistance"
+            ],
+            "answer": "d. Unaffected by peripheral resistance"
+        },
+        {
+            "questionNumber": 197,
+            "question": "All increase HR, except:",
+            "options": [
+                "a. Thyrotoxicosis",
+                "b. Injection of norepinephrine",
+                "c. Stimulation of sympathetic",
+                "d. Section of vagal supply"
+            ],
+            "answer": "d. Section of vagal supply"
+        },
+        {
+            "questionNumber": 198,
+            "question": "Condition increase pulse pressure:",
+            "options": [
+                "a. Tachycardia",
+                "b. Arteriosclerosis",
+                "c. Hemorrhage",
+                "d. Aortic stenosis"
+            ],
+            "answer": "d. Aortic stenosis"
+        },
+        {
+            "questionNumber": 199,
+            "question": "Arteriolar VC occur by which of local factors:",
+            "options": [
+                "a. NO",
+                "b. Angiotensin II",
+                "c. Atrial natriuretic peptide",
+                "d. Hydrogen ions"
+            ],
+            "answer": "a. NO"
+        },
+        {
+            "questionNumber": 200,
+            "question": "Distribution of blood among tissues regulated by resistance of:",
+            "options": [
+                "a. Arteries",
+                "b. Arterioles",
+                "c. Post -capillary venules",
+                "d. Veins"
+            ],
+            "answer": "b. Arterioles"
+        },
+        {
+            "questionNumber": 201,
+            "question": "Local control of circulation predominates over neural in:",
+            "options": [
+                "a. Brain",
+                "b. Skin",
+                "c. Liver",
+                "d. All of the above"
+            ],
+            "answer": "d. All of the above"
+        },
+        {
+            "questionNumber": 202,
+            "question": "Atrial natriuretic peptide:",
+            "options": [
+                "a. Causes retention of sodium",
+                "b. Decreases response of smooth muscles to VC",
+                "c. Stimulate secretion of vasopressin",
+                "d. Causes rise of ABP"
+            ],
+            "answer": "d. Causes rise of ABP"
+        },
+        {
+            "questionNumber": 203,
+            "question": "Arteriolar VC may result from:",
+            "options": [
+                "a. Increase adrenergic discharge",
+                "b. Local release of serotonin",
+                "c. Decrease local temperature",
+                "d. All of the above"
+            ],
+            "answer": "d. All of the above"
+        },
+        {
+            "questionNumber": 204,
+            "question": "Which of the following causes VC of arterioles:",
+            "options": [
+                "a. Increase tissue metabolism",
+                "b. Increase histamine",
+                "c. Increase epinephrine",
+                "d. All of the above"
+            ],
+            "answer": "d. All of the above"
+        },
+        {
+            "questionNumber": 205,
+            "question": "During exercise, all increase, except:",
+            "options": [
+                "a. Pulse pressure",
+                "b. COP",
+                "c. Blood flow to heart",
+                "d. Total peripheral resistance"
+            ],
+            "answer": "d. Total peripheral resistance"
+        },
+        {
+            "questionNumber": 206,
+            "question": "Angiotensin II has the following effects, except:",
+            "options": [
+                "a. Stimulates anti -diuretic hormone",
+                "b. Stimulates renin release",
+                "c. Powerful VC",
+                "d. Stimulates aldosterone release"
+            ],
+            "answer": "a. Stimulates anti -diuretic hormone"
+        },
+        {
+            "questionNumber": 207,
+            "question": "Open phase of vasomotion in capillaries due to:",
+            "options": [
+                "a. O2 lack & increase CO2",
+                "b. Increase pressure in vein",
+                "c. VC of arteriole",
+                "d. Increase ABP"
+            ],
+            "answer": "a. O2 lack & increase CO2"
+        },
+        {
+            "questionNumber": 208,
+            "question": "Plasma colloidal osmotic pressure is:",
+            "options": [
+                "a. Main filtering force in tissue fluid",
+                "b. Determine only albumin conc.",
+                "c. Equivalent to albumin conc. Of 0.9% nacl",
+                "d. Normally 28mmhg"
+            ],
+            "answer": "d. Normally 28mmhg"
+        },
+        {
+            "questionNumber": 209,
+            "question": "Dynamics of ISF:",
+            "options": [
+                "a. Outward force = 40mm Hg",
+                "b. Inward force= 9mmhg",
+                "c. ISF pressure= 3 mmhg",
+                "d. ISF colloid osmotic pressure= 28mmhg"
+            ],
+            "answer": "d. ISF colloid osmotic pressure= 28mmhg"
+        },
+        {
+            "questionNumber": 210,
+            "question": "Level of plasma proteins at which edema starts to appear is:",
+            "options": [
+                "a. 7.5 gm%",
+                "b. 5.5 gm%",
+                "c. 3.5 gm%",
+                "d. 4.5 gm%"
+            ],
+            "answer": "d. 4.5 gm%"
+        },
+        {
+            "questionNumber": 211,
+            "question": "Pitting edema produced by all, except:",
+            "options": [
+                "a. Renal disease",
+                "b. Congestive HF",
+                "c. Liver disease",
+                "d. Elephantiasis or malignancy"
+            ],
+            "answer": "d. Elephantiasis or malignancy"
+        },
+        {
+            "questionNumber": 212,
+            "question": "Edema occurs in the following except:",
+            "options": [
+                "a. Pregnancy",
+                "b. Very hot weather",
+                "c. Arteriolar VC",
+                "d. Hepatic disease"
+            ],
+            "answer": "c. Arteriolar VC"
+        },
+        {
+            "questionNumber": 213,
+            "question": "Tendency of edema increased by:",
+            "options": [
+                "a. Arteriolar VC",
+                "b. Increase venous pressure",
+                "c. Increase plasma protein",
+                "d. Muscular activity"
+            ],
+            "answer": "a. Arteriolar VC"
+        },
+        {
+            "questionNumber": 214,
+            "question": "CVP increased in all, except:",
+            "options": [
+                "a. Venous constriction",
+                "b. Capillary dilatation",
+                "c. Arterial pulsation",
+                "d. Efficient valves"
+            ],
+            "answer": "d. Efficient valves"
+        },
+        {
+            "questionNumber": 215,
+            "question": "Urine volume decrease in hemorrhage due to all, except:",
+            "options": [
+                "a. Decrease ABP",
+                "b. Decrease blood volume",
+                "c. Decrease ADH",
+                "d. VC of renal blood vessels"
+            ],
+            "answer": "c. Decrease ADH"
+        },
+        {
+            "questionNumber": 216,
+            "question": "Catecholamines in hemorrhage cause all, except:",
+            "options": [
+                "a. VC of arterioles and veins",
+                "b. Increase HR and SV",
+                "c. Increase glucocorticoids",
+                "d. Increase ADH"
+            ],
+            "answer": "d. Increase ADH"
+        },
+        {
+            "questionNumber": 217,
+            "question": "In hemorrhage, increase HR due to all, except:",
+            "options": [
+                "a. Decrease ABP",
+                "b. Increase adrenaline",
+                "c. Bainbridge reflex",
+                "d. Hypoxia"
+            ],
+            "answer": "c. Bainbridge reflex"
+        },
+        {
+            "questionNumber": 218,
+            "question": "Increase blood flow to active skeletal muscle due to:",
+            "options": [
+                "a. Anrep’s reflex",
+                "b. Loven’s reflex",
+                "c. Alam -smerk reflex",
+                "d. Mac -Dowel’s reflex"
+            ],
+            "answer": "b. Loven’s reflex"
+        },
+        {
+            "questionNumber": 219,
+            "question": "Increase blood flow to active skeletal muscle due to proprioceptors called:",
+            "options": [
+                "a. Anrep’s reflex",
+                "b. Loven’s reflex",
+                "c. Alam -smerk reflex",
+                "d. Mac -Dowel’s reflex"
+            ],
+            "answer": "b. Loven’s reflex"
+        },
+        {
+            "questionNumber": 220,
+            "question": "End-diastolic volume is increased:",
+            "options": [
+                "a. Stroke volume would be increased",
+                "b. Cardiac output would be decreased",
+                "c. Force of cardiac contraction would be decreased",
+                "d. Heart rate would be increased"
+            ],
+            "answer": "a. Stroke volume would be increased"
+        },
+        {
+            "questionNumber": 221,
+            "question": "Cardiac output:",
+            "options": [
+                "a. Amount of blood moving into aorta each minute",
+                "b. Amount of volume ejected from ventricle in each systole beats per minute",
+                "c. Amount of blood ejected from both ventricles in each systole",
+                "d. Amount of blood ejected from left ventricle in each systole"
+            ],
+            "answer": "a. Amount of blood moving into aorta each minute"
+        },
+        {
+            "questionNumber": 222,
+            "question": "In resting adult, ventricular ejection fraction is:",
+            "options": [
+                "a. 20%",
+                "b. 30%",
+                "c. 40%",
+                "d. 60%"
+            ],
+            "answer": "d. 60%"
+        },
+        {
+            "questionNumber": 223,
+            "question": "Stroke volume increased by which of the following?",
+            "options": [
+                "a. Increase in venous capacity due to venous dilation",
+                "b. Decrease in extracellular Ca",
+                "c. Increased arterial blood pressure",
+                "d. Increase in preload"
+            ],
+            "answer": "d. Increase in preload"
+        },
+        {
+            "questionNumber": 224,
+            "question": "End-diastolic volume= 130 ml, end -systolic volume= 70ml and COP = 4800ml/min., heart rate equals?",
+            "options": [
+                "a. 70",
+                "b. 80",
+                "c. 90",
+                "d. 100"
+            ],
+            "answer": "d. 100"
+        },
+        {
+            "questionNumber": 225,
+            "question": "SBP=122, DBP= 70, CVP= 2, COP=5000 and HR = 100",
+            "options": [
+                "a. Pulse pressure is 80",
+                "b. Mean arterial BP is 94",
+                "c. TPR is 40",
+                "d. SV is 50"
+            ],
+            "answer": "d. SV is 50"
+        },
+        {
+            "questionNumber": 226,
+            "question": "The HIP lies in which of the following?",
+            "options": [
+                "a. 5-7 cm below diaphragm",
+                "b. 5-7 mm below diaphragm",
+                "c. 5-7 cm above diaphragm",
+                "d. 5-7 mm above diaphragm"
+            ],
+            "answer": "a. 5-7 cm below diaphragm"
+        },
+        {
+            "questionNumber": 227,
+            "question": "The HIP lies in swimming in:",
+            "options": [
+                "a. At level of heart",
+                "b. 5-7 cm below diaphragm",
+                "c. 10-12 cm below diaphragm",
+                "d. 10-12 cm above diaphragm"
+            ],
+            "answer": "a. At level of heart"
+        },
+        {
+            "questionNumber": 228,
+            "question": "Which of the following valves lies at left 5th intercostal space?",
+            "options": [
+                "a. Aortic",
+                "b. Mitral",
+                "c. Pulmonary",
+                "d. Tricuspid"
+            ],
+            "answer": "b. Mitral"
+        },
+        {
+            "questionNumber": 229,
+            "question": "Which of the following conditions causes edema due to obstruction of lymph vessels?",
+            "options": [
+                "a. Filariasis",
+                "b. Inflammatory conditions",
+                "c. Increased histamine release",
+                "d. Kidney disease"
+            ],
+            "answer": "a. Filariasis"
+        },
+        {
+            "questionNumber": 230,
+            "question": "In case of liver disease will be which of the following?",
+            "options": [
+                "a. Increase filtration due to increased colloid osmotic pressure of plasma",
+                "b. Decrease filtration due to decreased colloid osmotic pressure of plasma",
+                "c. Increase filtration due to decreased colloid osmotic pressure of plasma",
+                "d. Increase filtration due to increased albumin formation"
+            ],
+            "answer": "b. Decrease filtration due to decreased colloid osmotic pressure of plasma"
+        },
+        {
+            "questionNumber": 231,
+            "question": "ABP is 110/70, calculation of mean systemic arterial pressure (MAP) is:",
+            "options": [
+                "a. 70-1/3 x (110 -70)",
+                "b. 70- 1/3 x (110+ 70)",
+                "c. 70 + 1/3 x (110 -70)",
+                "d. 70 + 1/3 x (110+70)"
+            ],
+            "answer": "c. 70 + 1/3 x (110 -70)"
+        },
+        {
+            "questionNumber": 232,
+            "question": "In which of the following cases of hemorrhagic shock, compensatory mechanisms may not be sufficient and patient needs rapid blood transfusion?",
+            "options": [
+                "a. Loss 10% of total blood volume",
+                "b. Loss 15 % of total blood volume",
+                "c. Loss 5% of total blood volume",
+                "d. Loss 25% of total blood volume"
+            ],
+            "answer": "d. Loss 25% of total blood volume"
+        },
+        {
+            "questionNumber": 233,
+            "question": "Which of the following cause edema in liver disease?",
+            "options": [
+                "a. Increase loss of plasma proteins in urine",
+                "b. Increase synthesis of albumin",
+                "c. Decrease synthesis of plasma proteins",
+                "d. Increase osmotic pressure of plasma proteins"
+            ],
+            "answer": "c. Decrease synthesis of plasma proteins"
+        },
+        {
+            "questionNumber": 234,
+            "question": "Sum of mean forces tending to move fluid outwards from capillaries?",
+            "options": [
+                "a. 38 mmhg",
+                "b. 0 mmhg",
+                "c. 15 mmhg",
+                "d. 18 mmhg"
+            ],
+            "answer": "a. 38 mmhg"
+        },
+        {
+            "questionNumber": 235,
+            "question": "Normal sequence in intermediate mechanism for regulation of blood pressure?",
+            "options": [
+                "a. Increase ABP ----increase capillary hydrostatic pressure -----decrease filtration of fluid",
+                "b. Increase ABP ----increase capillary hydrostatic pressure -----increase filtration of fluid",
+                "c. Decrease ABP ---- increase filtration of fluid ------ decrease venous return",
+                "d. Decrease ABP ---- decrease plasma volume ------ decrease venous return"
+            ],
+            "answer": "a. Increase ABP ----increase capillary hydrostatic pressure -----decrease filtration of fluid"
+        },
+        {
+            "questionNumber": 236,
+            "question": "Calculation of stroke volume?",
+            "options": [
+                "a. EDV-ESV",
+                "b. EDV/ESV",
+                "c. EDV+ESV",
+                "d. ESV-EDV"
+            ],
+            "answer": "a. EDV-ESV"
+        },
+        {
+            "questionNumber": 237,
+            "question": "Orthostatic hypotension does not occur on swimming?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 238,
+            "question": "Sphygmomanometer used to measure BP?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 239,
+            "question": "Stethoscope put on brachial artery to measure blood pressure?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 240,
+            "question": "Pulse can be felt in foot also as other site?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 241,
+            "question": "Closure of tricuspid and mitral cause first heart sound?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 242,
+            "question": "Kinins stimulate pain receptors?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 243,
+            "question": "Apex of heart lies in left 5th intercostal space?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 244,
+            "question": "Pulse pressure equals systolic pressure + diastolic pressure?",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "b. False"
+        },
+        {
+            "questionNumber": 245,
+            "question": "EDV is preload?",
+            "options": [
+                "a. False",
+                "b. True"
+            ],
+            "answer": "b. True"
+        },
+        {
+            "questionNumber": 246,
+            "question": "In transverse section, right ventricle has:",
+            "options": [
+                "a. Cylindrical shaped",
+                "b. Convex shaped",
+                "c. Cone -shaped funnel",
+                "d. Crescentic outline"
+            ],
+            "answer": "c. Cone -shaped funnel"
+        },
+        {
+            "questionNumber": 247,
+            "question": "Which of the following is not feature of cardiac muscle?",
+            "options": [
+                "a. Branched",
+                "b. Intercalated disc",
+                "c. Gap junctions",
+                "d. Triad system"
+            ],
+            "answer": "d. Triad system"
+        },
+        {
+            "questionNumber": 248,
+            "question": "Which is not histological character of purkinje fibers?",
+            "options": [
+                "a. Cytoplasm darkly stained",
+                "b. Myofibrils are peripheral",
+                "c. Modified cardiac muscle",
+                "d. Present in AV bundle"
+            ],
+            "answer": "b. Myofibrils are peripheral"
+        },
+        {
+            "questionNumber": 249,
+            "question": "What is the site of diad in cardiac muscle?",
+            "options": [
+                "a. A-I band",
+                "b. Z line",
+                "c. I band",
+                "d. A band"
+            ],
+            "answer": "d. A band"
+        },
+        {
+            "questionNumber": 250,
+            "question": "The main creatine kinase elevated with myocardial infarction?",
+            "options": [
+                "a. CK-BB",
+                "b. CK-MB",
+                "c. CK-MM",
+                "d. CK-total"
+            ],
+            "answer": "b. CK-MB"
+        },
+        {
+            "questionNumber": 251,
+            "question": "The long -lasting enzyme elevated with myocardial infarction is?",
+            "options": [
+                "CK-MB isoform 1",
+                "CK-MB isoform 2",
+                "AST",
+                "LDH"
+            ],
+            "answer": "CK-MB isoform 1"
+        },
+        {
+            "questionNumber": 252,
+            "question": "Thick internal elastic lamina is character of basilar artery.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 253,
+            "question": "Which one is true concerning cardiac muscle?",
+            "options": [
+                "Multiple & central nuclei",
+                "Multiple & oval nuclei",
+                "Single & flat nucleus",
+                "Single & central nucleus"
+            ],
+            "answer": "Single & central nucleus"
+        },
+        {
+            "questionNumber": 254,
+            "question": "Mediators released in case of exercise can affect diameter of arterioles to cause which of the following?",
+            "options": [
+                "Vasodilatation",
+                "Vasoconstriction"
+            ],
+            "answer": "Vasodilatation"
+        },
+        {
+            "questionNumber": 255,
+            "question": "Longitudinal smooth muscle in tunica adventitia is character of inferior vena cava",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 256,
+            "question": "Protein elevated with myocardial infarction is?",
+            "options": [
+                "CK-MB",
+                "Cardiac Troponin",
+                "LDH",
+                "AST"
+            ],
+            "answer": "CK-MB"
+        },
+        {
+            "questionNumber": 257,
+            "question": "Myoglobin is elevated with skeletal muscle disease only",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 258,
+            "question": "Which one is light microscope feature of purkinje muscle fibers?",
+            "options": [
+                "Striated muscle fibers",
+                "Small pale fibers",
+                "Pale vacuolated sarcoplasm",
+                "Intercalated disc"
+            ],
+            "answer": "Intercalated disc"
+        },
+        {
+            "questionNumber": 259,
+            "question": "What is the main layer in wall of vein?",
+            "options": [
+                "Tunica adventitia",
+                "Tunica intima",
+                "Subendothelial CT",
+                "Tunica media"
+            ],
+            "answer": "Tunica intima"
+        },
+        {
+            "questionNumber": 260,
+            "question": "Purkinje fibers have pale vacuolated cytoplasm due to glycogen?",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 261,
+            "question": "Endothelins can cause which of the following?",
+            "options": [
+                "Vasodilatation",
+                "Vasoconstriction"
+            ],
+            "answer": "Vasoconstriction"
+        },
+        {
+            "questionNumber": 262,
+            "question": "Which one is not feature of cardiac muscles have?",
+            "options": [
+                "Gap junctions",
+                "Branching",
+                "Triad tubular system",
+                "Intercalated discs"
+            ],
+            "answer": "Triad tubular system"
+        },
+        {
+            "questionNumber": 263,
+            "question": "Which part of intercalated disc provides ionic continuity?",
+            "options": [
+                "Fascia adherens",
+                "Desmosomes",
+                "Sarcoplasmic reticulum",
+                "Gap junctions"
+            ],
+            "answer": "Gap junctions"
+        },
+        {
+            "questionNumber": 264,
+            "question": "The first enzyme elevated with myocardial infarction is?",
+            "options": [
+                "CK-MB isoform 1",
+                "CK-MB isoform 2",
+                "AST",
+                "LDH"
+            ],
+            "answer": "CK-MB isoform 1"
+        },
+        {
+            "questionNumber": 265,
+            "question": "Desmosomes provide ionic continuity",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 266,
+            "question": "Fascia occludens is not present in intercalated discs",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 267,
+            "question": "Coronary artery has longitudinally arranged smooth muscle in tunica intima",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 268,
+            "question": "Tunica intima is the thickest layer in wall of artery",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 269,
+            "question": "Thin media is not character of basilar artery",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 270,
+            "question": "What is the thickest layer in wall of artery?",
+            "options": [
+                "Tunica intima",
+                "Sub-endothelial CT",
+                "Tunica adventitia",
+                "Tunica media"
+            ],
+            "answer": "Tunica media"
+        },
+        {
+            "questionNumber": 271,
+            "question": "Thick tunica media is character of inferior vena cava",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 272,
+            "question": "What is the main layer in wall of vein?",
+            "options": [
+                "Tunica adventitia",
+                "Tunica intima",
+                "Sub-endothelial CT",
+                "Tunica media"
+            ],
+            "answer": "Tunica intima"
+        },
+        {
+            "questionNumber": 273,
+            "question": "Which of the following is the thickest layer in wall of vein?",
+            "options": [
+                "Tunica intima",
+                "Tunica media",
+                "Sub-endothelial CT",
+                "Tunica adventitia"
+            ],
+            "answer": "Tunica adventitia"
+        },
+        {
+            "questionNumber": 274,
+            "question": "At what level of vascular tree, gas exchange occurs:",
+            "options": [
+                "Capillary",
+                "Arteriole",
+                "Venule",
+                "Artery"
+            ],
+            "answer": "Capillary"
+        },
+        {
+            "questionNumber": 275,
+            "question": "Which layer is artery contain endothelium:",
+            "options": [
+                "Tunica intima",
+                "Tunica media",
+                "Tunica adventitia",
+                "All of the above"
+            ],
+            "answer": "Tunica intima"
+        },
+        {
+            "questionNumber": 276,
+            "question": "Which layer in artery is primarily smooth muscle:",
+            "options": [
+                "Tunica intima",
+                "Tunica media",
+                "Tunica adventitia",
+                "All of the above"
+            ],
+            "answer": "Tunica media"
+        },
+        {
+            "questionNumber": 277,
+            "question": "Which layer in heart covered with endothelium:",
+            "options": [
+                "Epicardium",
+                "Pericardium",
+                "Endocardium",
+                "All of the above"
+            ],
+            "answer": "Endocardium"
+        },
+        {
+            "questionNumber": 278,
+            "question": "Which layer in heart contain cardiac muscle:",
+            "options": [
+                "Epicardium",
+                "Pericardium",
+                "Endocardium",
+                "Myocardium"
+            ],
+            "answer": "Myocardium"
+        },
+        {
+            "questionNumber": 279,
+            "question": "Intercalated disc:",
+            "options": [
+                "Has gap junctions only",
+                "Present between cardiac muscles",
+                "Present in center of cells",
+                "Straight in shape"
+            ],
+            "answer": "Present between cardiac muscles"
+        },
+        {
+            "questionNumber": 280,
+            "question": "Brown atrophy of heart, due to:",
+            "options": [
+                "Mitochondria",
+                "Sarcoplasmic reticulum",
+                "Lipofuscin granules (residual bodies)",
+                "Glycogen"
+            ],
+            "answer": "Lipofuscin granules (residual bodies)"
+        },
+        {
+            "questionNumber": 281,
+            "question": "Origin of cardiac muscles:",
+            "options": [
+                "Endoderm",
+                "Mesoderm",
+                "Ectoderm",
+                "All of the above"
+            ],
+            "answer": "Mesoderm"
+        },
+        {
+            "questionNumber": 282,
+            "question": "As regards cardiac muscles, all true except:",
+            "options": [
+                "Showing functional syncytium",
+                "Intercalated discs present between muscle cells",
+                "Regeneration from satellite cells",
+                "Has single nuclei & acidophilic sarcoplasm"
+            ],
+            "answer": "Regeneration from satellite cells"
+        },
+        {
+            "questionNumber": 283,
+            "question": "Transverse (vertical) part of intercalated discs, contain:",
+            "options": [
+                "Gap junctions",
+                "Fascia adherens",
+                "Desmosomes",
+                "B & c"
+            ],
+            "answer": "B & c"
+        },
+        {
+            "questionNumber": 284,
+            "question": "Lateral part of intercalated discs contain:",
+            "options": [
+                "Gap junctions",
+                "Fascia adherens",
+                "Desmosomes",
+                "Fascia occludens"
+            ],
+            "answer": "Fascia occludens"
+        },
+        {
+            "questionNumber": 285,
+            "question": "A system of T -tubule & one sarcoplasmic reticulum called:",
+            "options": [
+                "Diad system",
+                "Triad system",
+                "Intercalated discs",
+                "All of the above"
+            ],
+            "answer": "Triad system"
+        },
+        {
+            "questionNumber": 286,
+            "question": "Complex step like structures in heart called:",
+            "options": [
+                "Gap junctions",
+                "Desmosomes",
+                "Intercalated discs",
+                "Tight junctions"
+            ],
+            "answer": "Intercalated discs"
+        },
+        {
+            "questionNumber": 287,
+            "question": "Dihydropyridine receptors present on:",
+            "options": [
+                "Sarcoplasm",
+                "Sarcolemma (T -tubules)",
+                "Gap junctions",
+                "None of the above"
+            ],
+            "answer": "Sarcolemma (T -tubules)"
+        },
+        {
+            "questionNumber": 288,
+            "question": "Ryanodine receptor present on:",
+            "options": [
+                "Sarcoplasm",
+                "Sarcoplasmic reticulum",
+                "Intercalated discs",
+                "T-tubules"
+            ],
+            "answer": "Sarcoplasmic reticulum"
+        },
+        {
+            "questionNumber": 289,
+            "question": "Cells arranged in chain -like arrays in:",
+            "options": [
+                "Cardiac tube",
+                "Gap junctions",
+                "T-tubules",
+                "Sarcoplasm"
+            ],
+            "answer": "Cardiac tube"
+        },
+        {
+            "questionNumber": 290,
+            "question": "Sarcolemma is very thick",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 291,
+            "question": "Normal cardiac muscle has pale vacuolated cytoplasm",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 292,
+            "question": "Purkinje muscles have one or 2 nuclei, no striations and pale vacuolated cytoplasm",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 293,
+            "question": "Internal carotids & basilar artery interconnected in anastomosis called:",
+            "options": [
+                "Brachiocephalic trunk",
+                "Common carotid artery",
+                "Coronary sinus",
+                "Circle of willis"
+            ],
+            "answer": "Circle of willis"
+        },
+        {
+            "questionNumber": 294,
+            "question": "For pericytes, all true except:",
+            "options": [
+                "Partly surround endothelial cells",
+                "Have no cytoplasmic processes",
+                "Contain actin, myosin and tropomyosin",
+                "Produce smooth muscle cells & fibroblasts following tissue injury",
+                "None of the above"
+            ],
+            "answer": "Have no cytoplasmic processes"
+        },
+        {
+            "questionNumber": 295,
+            "question": "As regards sinusoidal capillary, all true except:",
+            "options": [
+                "Has tortuous path and wide lumen",
+                "Endothelial cells fenestrated without diaphragms",
+                "Basal lamina thick and continuous",
+                "There are macrophages",
+                "Present in spleen & liver"
+            ],
+            "answer": "Basal lamina thick and continuous"
+        },
+        {
+            "questionNumber": 296,
+            "question": "What is venous channel that around brain?",
+            "options": [
+                "Continuous capillaries",
+                "Fenestrated capillaries",
+                "Sinusoidal capillaries",
+                "A-V anastomosis",
+                "Venous sinus"
+            ],
+            "answer": "Venous sinus"
+        },
+        {
+            "questionNumber": 297,
+            "question": "What is type of capillaries that around brain?",
+            "options": [
+                "Continuous capillaries",
+                "Fenestrated capillaries",
+                "Sinusoidal capillaries",
+                "A-V anastomosis",
+                "Venous sinus"
+            ],
+            "answer": "Continuous capillaries"
+        },
+        {
+            "questionNumber": 298,
+            "question": "Tunica adventitia is thicker in arteries than veins",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 299,
+            "question": "There are macrophages among and outside sinusoidal capillaries",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
+        },
+        {
+            "questionNumber": 300,
+            "question": "Adventitia of coronary artery formed of mucoid CT",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "questionNumber": 301,
+            "question": "Glomus body is organized capsulated connection",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "b. False"
+        },
+        {
+            "questionNumber": 302,
+            "question": "Valves of veins are crescentric folds of intima",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "a. True"
+        },
+        {
+            "questionNumber": 303,
+            "question": "The small blood vessels that supply tunica adventitia are called:        vasa vasorum",
+            "options": [
+                "vasa vasorum"
+            ],
+            "answer": "vasa vasorum"
+        },
+        {
+            "questionNumber": 304,
+            "question": "The type of capillary present in brain is:         continuous capillaries",
+            "options": [
+                "continuous capillaries"
+            ],
+            "answer": "continuous capillaries"
+        },
+        {
+            "questionNumber": 305,
+            "question": "Medium sized arteries are ………………..arteries  (muscular)",
+            "options": [
+                "muscular"
+            ],
+            "answer": "muscular"
+        },
+        {
+            "questionNumber": 306,
+            "question": "……….. Are all arteries of 0.1 mm in diameter of less  (arterioles)",
+            "options": [
+                "arterioles"
+            ],
+            "answer": "arterioles"
+        },
+        {
+            "questionNumber": 307,
+            "question": "Endothelial cells of continuous capillaries joined by   (desmosomes)",
+            "options": [
+                "desmosomes"
+            ],
+            "answer": "desmosomes"
+        },
+        {
+            "questionNumber": 308,
+            "question": "Which of the following is not character of basilar artery?",
+            "options": [
+                "a. It is similar to vein",
+                "b. It has thick internal elastic lamina",
+                "c. It has thin media and thick adventitia",
+                "d. It is medium sized artery"
+            ],
+            "answer": "d. It is medium sized artery"
+        },
+        {
+            "questionNumber": 309,
+            "question": "Inferior vena cava has the following characters?",
+            "options": [
+                "a. Well -developed internal elastic lamina",
+                "b. Skeletal muscles in tunica adventitia",
+                "c. Longitudinal smooth muscle in tunica adventitia"
+            ],
+            "answer": "a. Well -developed internal elastic lamina"
+        },
+        {
+            "questionNumber": 310,
+            "question": "Which of the following does not contain fenestrated (visceral) capillaries?",
+            "options": [
+                "a. Intestine",
+                "b. Glomerular capillaries of kidney",
+                "c. Endocrine glands",
+                "d. Brain"
+            ],
+            "answer": "d. Brain"
+        },
+        {
+            "questionNumber": 311,
+            "question": "Which of the following is not character of capillaries?",
+            "options": [
+                "a. Endocrine glands have fenestrated capillaries with diaphragm",
+                "b. Fenestrated capillaries have continuous basement membrane",
+                "c. Discontinuous capillaries have fenestrated endothelium",
+                "d. Fenestrated capillaries are known as visceral capillaries"
+            ],
+            "answer": "b. Fenestrated capillaries have continuous basement membrane"
+        },
+        {
+            "questionNumber": 312,
+            "question": "Which of the following is the thickest layer in wall of artery?",
+            "options": [
+                "a. Tunica intima",
+                "b. Subendothelial CT",
+                "c. Tunica medica",
+                "d. Tunica adventitia"
+            ],
+            "answer": "d. Tunica adventitia"
+        },
+        {
+            "questionNumber": 313,
+            "question": "Thickest layer in vein is:",
+            "options": [
+                "a. Tunica adventitia",
+                "b. Tunica media",
+                "c. Tunica intima",
+                "d. Sub-endothelial CT"
+            ],
+            "answer": "a. Tunica adventitia"
+        },
+        {
+            "questionNumber": 314,
+            "question": "All ventricular muscle cells beat at same time because:",
+            "options": [
+                "a. Supplied by vagus nerve",
+                "b. Number is small",
+                "c. Supplied by sympathetic",
+                "d. Presence of intercalated discs"
+            ],
+            "answer": "d. Presence of intercalated discs"
+        },
+        {
+            "questionNumber": 315,
+            "question": "All of the following organs have sinusoidal capillaries, except:",
+            "options": [
+                "a. Lung",
+                "b. Liver",
+                "c. Spleen",
+                "d. Bone marrow"
+            ],
+            "answer": "a. Lung"
+        },
+        {
+            "questionNumber": 316,
+            "question": "Meta -arterioles have the following character, except:",
+            "options": [
+                "a. They are intermediate between arterioles and capillaries",
+                "b. They have thin walls",
+                "c. They are lined by endothelial cells with basal laminae",
+                "d. They are surrounded by continuous layer of smooth muscle"
+            ],
+            "answer": "d. They are surrounded by continuous layer of smooth muscle"
+        },
+        {
+            "questionNumber": 317,
+            "question": "Valves are:",
+            "options": [
+                "a. Numerous in veins of limbs and lymphatic vessels",
+                "b. They direct venous blood towards the heart",
+                "c. They consist of two semilunar folds of intima",
+                "d. All of the above"
+            ],
+            "answer": "d. All of the above"
+        },
+        {
+            "questionNumber": 318,
+            "question": "As regards bone marrow, blood sinusoids are lined with:",
+            "options": [
+                "a. Continuous endothelial cells",
+                "b. Fenestrated endothelial cells",
+                "c. Macrophages",
+                "d. Fibroblasts"
+            ],
+            "answer": "a. Continuous endothelial cells"
+        },
+        {
+            "questionNumber": 319,
+            "question": "Medium sized artery is characterized by the following, except:",
+            "options": [
+                "a. Thin tunica intima",
+                "b. Moderately tunica media",
+                "c. Very thick tunica adventitia",
+                "d. Evident internal and external elastic laminae"
+            ],
+            "answer": "c. Very thick tunica adventitia"
+        },
+        {
+            "questionNumber": 320,
+            "question": "Fenestrated blood capillaries are present in:",
+            "options": [
+                "a. Glomeruli of kidney",
+                "b. Lung",
+                "c. Tips of fingers",
+                "d. Tips of toes"
+            ],
+            "answer": "a. Glomeruli of kidney"
+        },
+        {
+            "questionNumber": 321,
+            "question": "Purkinje fibers are characterized by the following, except:",
+            "options": [
+                "a. Impulse conducting fibers",
+                "b. Present in cerebellar cortex",
+                "c. Have peripheral myofibrils",
+                "d. Form atrio -ventricular bundle of his"
+            ],
+            "answer": "b. Present in cerebellar cortex"
+        },
+        {
+            "questionNumber": 322,
+            "question": "Large sized vein  (IVC)  characterized by:",
+            "options": [
+                "a. Prominent elastic laminae",
+                "b. A lot of elastic fibers",
+                "c. Longitudinal bundles of smooth muscles in tunica adventitia",
+                "d. A lot of skeletal muscles"
+            ],
+            "answer": "c. Longitudinal bundles of smooth muscles in tunica adventitia"
+        },
+        {
+            "questionNumber": 323,
+            "question": "Fenestrated capillaries lack diaphragms in:",
+            "options": [
+                "a. Glomeruli of kidneys",
+                "b. Fingers",
+                "c. Toes",
+                "d. Spleen"
+            ],
+            "answer": "d. Spleen"
+        },
+        {
+            "questionNumber": 324,
+            "question": "Coronary artery has longitudinal arranged smooth muscle in tunica intima",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "b. False"
+        },
+        {
+            "questionNumber": 325,
+            "question": "Thin media is not character of basilar artery",
+            "options": [
+                "a. True",
+                "b. False"
+            ],
+            "answer": "b. False"
+        }
+    ]
+}
